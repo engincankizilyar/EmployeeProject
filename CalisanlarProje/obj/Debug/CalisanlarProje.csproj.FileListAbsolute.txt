@@ -1,0 +1,15 @@
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\bin\Debug\CalisanlarProje.exe.config
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\bin\Debug\CalisanlarProje.exe
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\bin\Debug\CalisanlarProje.pdb
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.csprojAssemblyReference.cache
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.AdminGiris.resources
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.Properties.Resources.resources
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.csproj.GenerateResource.cache
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.csproj.CoreCompileInputs.cache
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.exe
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.pdb
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.Menu.resources
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.Goruntule.resources
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.Ekle.resources
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.Sil.resources
+C:\Users\engin\Desktop\Yazılımsal Uygulamalar\VisualStudio C# Kodları\Visual Studio Form Örnekler\CalisanlarProje\CalisanlarProje\obj\Debug\CalisanlarProje.Duzenle.resources
